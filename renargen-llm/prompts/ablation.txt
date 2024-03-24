@@ -1,0 +1,1 @@
+Here is the first sentence of a narrative: <start>. Please give me the next FOUR sentences. Make sure that the last sentence is related to the first sentence.

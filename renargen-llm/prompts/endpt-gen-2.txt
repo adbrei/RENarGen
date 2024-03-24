@@ -1,0 +1,1 @@
+Here is the first sentence of a narrative: <start>. Please give me a closing sentence which is related to the first sentence.

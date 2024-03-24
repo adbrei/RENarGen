@@ -1,0 +1,1 @@
+Here is the first sentence of a narrative: <start> and here is the last sentence: <1-5 output>. What happens between these sentences? Please give me THREE consecutive intermediate sentences.

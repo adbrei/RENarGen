@@ -1,0 +1,1 @@
+Here is the first sentence and its salient words/phrases: <start,l>. Using this first sentence and the list of salient words/phrases, give one related closing sentence.

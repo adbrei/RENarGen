@@ -1,0 +1,1 @@
+Here is the first sentence of a narrative: <start>. Please give me a closing sentence that is the entailment of the first sentence.

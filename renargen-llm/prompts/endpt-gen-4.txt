@@ -1,0 +1,1 @@
+Here is the first sentence of a narrative: <start>. Please give me a closing sentence that has the same character and/or same related action and/or location.

@@ -1,0 +1,1 @@
+Here is the first sentence of a narrative: <start>. What are the most salient words or phrases? Give me a list, where each item is separated by a comma.

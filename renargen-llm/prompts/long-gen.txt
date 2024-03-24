@@ -1,0 +1,1 @@
+Here is the first sentence of a narrative: <start> and here is the last sentence: <stop>. What happens between these sentences? Please give the complete story.

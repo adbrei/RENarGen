@@ -1,0 +1,1 @@
+Here is the first sentence of a narrative: <start>. What is the most salient question to propel the narrative forward?

@@ -1,7 +1,12 @@
 # RENarGen
 Codebase for RENarGen  (NAACL '24)
 
-**Paper:**
+**Paper:** *Returning to the Start: Generating Narratives with Related Endpoints* 
+
+[[arXiv]](https://arxiv.org/pdf/2404.00829)
+[[Video Presentation]](https://drive.google.com/file/d/1sFnJMFoXAPXkkOTjtt-xwFG-frNitQYo/view?usp=sharing)
+[[Slides]](https://github.com/adbrei/RENarGen/blob/main/Returning%20to%20the%20Start%20-%20NAACL%202024%20Slides.pdf)
+[[Poster]](https://github.com/adbrei/RENarGen/blob/main/Returning%20to%20the%20Start%20-%20NAACL%202024%20Poster.pdf)
 
 **Abstract:**  Human writers often *bookend* their writing with endings related to the beginnings in order to compose a satisfying narrative that ''closes the loop.'' Motivated by this observation, we propose RENarGen, a controllable story-generation paradigm that generates narratives by first ensuring the first and last sentences are related and then infilling middle sentences. Our contributions include an initial exploration of how bookending affects language modeling for stories. Automatic and human evaluations indicate RENarGen produces stories with more narrative closure than current autoregressive models.
 

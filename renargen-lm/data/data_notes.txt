@@ -1,0 +1,15 @@
+Follow the TODO instructions in renargen_lm/setup.ipyb:
+
+Download:
+- STR-2022: https://github.com/Priya22/semantic-textual-relatedness/blob/master/sem_text_rel_ranked.csv
+- ROCStories: https://cs.rochester.edu/nlp/rocstories/
+
+Run code blocks in renargen_lm/setup.ipyb to generate the following data:
+- roc_scored.csv
+- baseline (5 sentence stories)
+- stop_baseline_F1, stop_baseline_F2, stop_baseline_F3
+- phrase_generator
+- stop_generator
+- position_classifier
+- infill_generator
+- ablations

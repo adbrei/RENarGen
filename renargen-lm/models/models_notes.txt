@@ -1,0 +1,33 @@
+Run code blocks in renargen_lm/setup.ipyb for the following:
+
+- sbert-relatedness:
+    score relatedness of two sentences
+    
+- baseline: 
+    gpt-2 finetuned on ROCStories train data
+    given start -> generate rest of 5-sentence story
+
+- stop_baseline: 
+    gpt-2 stop generator baseline model
+    given start -> generate stop
+
+- phrase_generator: 
+    component 1 of phrase2stop_gpt
+    GPT-2 phrase list generator
+    given start -> generate list of relateable phrases
+
+- stop_generator: 
+    component 2 of phrase2stop_gpt
+    given start + phrases -> generate stop
+
+- position_classifier
+    BERT classifier to determine where to infill next
+
+- infill_generator
+    GPT-2 model generates an infill sentence
+
+- a2_1
+    Remove position classifer; infill 3 sentences
+
+- a2_3
+    Remove phrase generator
